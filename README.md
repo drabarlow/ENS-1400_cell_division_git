@@ -1,6 +1,6 @@
 # ENS-1400_cell_division_git
 
-My lecture slides on Cell division, given as part of the Cell Biology section of ENS-1400 Priciples of Life Module. You can access the slides by clicking the following link: https://drabarlow.github.io/ENS-1400_membranes_git/
+My lecture slides on Cell division, given as part of the Cell Biology section of ENS-1400 Priciples of Life Module. You can access the slides by clicking the following link: https://drabarlow.github.io/ENS-1400_cell_division_git/
 
 Use left/right arrow keys to advance the slides
 
