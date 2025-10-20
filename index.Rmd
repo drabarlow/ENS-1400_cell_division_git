@@ -32,7 +32,7 @@ library(knitr)
 - Growth
 - Tissue renewal
 - Reproduction, asexual
-- Reproduction, sexual (meiosis -different process)
+- Reproduction, sexual (meiosis - different process)
 - All require replication of DNA
 
 ## DNA organisation
@@ -99,24 +99,28 @@ include_graphics("./img/coli.png")
 include_graphics("./img/Graur et al. - 2013.pdf")
 ```
 
-## Chromosome duplication
+## Chromosome duplication {.white-slide}
 
+- All chromosomes must be duplicated and divided among daughter cells
 - After duplication, sister chromatids are closely attached at centromeres by cohesins
 - Repetitive DNA in central region of chromosome
 - Section either side of centromere is the chromosome arm
 - Sister chromatids separate during mitosis
 
-```{r, out.width = "70%", fig.align='right'}
+```{r, out.width = "60%", fig.align='center'}
 include_graphics("./img/chr.png")
 ```
 
 ## Cell cycle {.columns-2}
 
-- Interphase
+**Interphase**
+
 - G1 phase (metabolism, growth)
 - S phase (DNA synthesis)
 - G2 phase (metabolism, growth, prepare for mitosis)
-- Mitotic phase (M phase)
+
+**Mitotic phase (M phase)**
+
 - Mitosis (formation of daughter nuclei, 5 stages)
 - Cytokinesis (cell division)
 
@@ -124,13 +128,16 @@ include_graphics("./img/chr.png")
 include_graphics("./img/cyc.png")
 ```
 
-## Many human cells take 24hrs {.columns-2}
+## Many human cells take ~24hrs {.columns-2}
 
-- Interphase
+**Interphase**
+
 - G1 phase: 5-6 hours (highly variable)
 - S phase: 10-12 hours
 - G2 phase: 4-6 hours
-- Mitotic phase (M phase): < 1 hour
+
+**Mitotic phase (M phase): < 1 hour**
+
 - Mitosis
 - Cytokinesis 
 
@@ -172,8 +179,8 @@ include_graphics("./img/cyc.png")
 
 - Begins to form in prophase
 - Crucial for mitosis
-- Formed from microtubules from cytoskeleton
-- Attached to two centrosomes
+- Formed from **microtubules** from cytoskeleton
+- Attached to two **centrosomes**
 
 ## Mitotic spindle
 
@@ -275,6 +282,12 @@ include_graphics("./img/self_study.png")
 
 ```{r, out.width = "100%", fig.align='center'}
 include_graphics("./img/HeLa.png")
+```
+
+## Henrietta Lacks (1951) {.white-slide}
+
+```{r, out.width = "85%", fig.align='center'}
+include_graphics("./img/hela.png")
 ```
 
 ## Cell Biology
